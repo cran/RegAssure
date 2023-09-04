@@ -1,0 +1,16 @@
+1d77b0809a1a3576062163a8a6d87b14 *DESCRIPTION
+87a8f8f200fd3688705c0706c535f797 *NAMESPACE
+1154a3dc19be5c6e33709f2194fd9fe2 *R/Check_lm_assumptions.R
+b98cad58d71f8cb77a80ba34f4a06853 *R/Check_logit.R
+1c9704a7a1ed304657b4f16b4e7449a6 *R/RegAssure-package.R
+32ca1ff2bbf3e53fe0e0711ae8337fd6 *R/get_predict.R
+a7cf6168e5a16411f985033f9e2e48a4 *README.md
+ebbc0090a67d882374bd3c4da4c0efbc *inst/packages.bib
+08c31eaf2e312350f9fecf6e276dac20 *man/RegAssure-package.Rd
+0abc8399562f367dd1b62b3e751f3a99 *man/check_lm_assumptions.Rd
+bc5f4875d12dc0ac67d292ae5910f799 *man/check_logit.Rd
+723a46c1ef98e06a4e6eed0c74765550 *man/get_predict.Rd
+882054e6b387c88ed85df69890a35f4d *tests/testthat.R
+55b8d6b9012c4a02a4168fcb4f9a2477 *tests/testthat/test_check_lm_assumptions.R
+932c19ef49f2bae864ce4e1ccae0c28e *tests/testthat/test_check_logit.R
+60e08b6151afc53df054a0fd9463e2b1 *tests/testthat/test_get_predict.R
